@@ -14,7 +14,7 @@ This project compares an embedding-based retrieval pipeline against an LLM extra
 
 ## Why This Project Exists
 
-LLMs are good at *sounding right* — but bad at **quoting long documents reliably**.
+LLMs are good at *sounding right*?... but bad at **quoting long documents reliably**.
 
 In editorial and legal contexts, hallucinated passages break trust. Readiscover reframes the problem from *generation* to **retrieval**, returning only continuous, verbatim excerpts from the source text.
 
