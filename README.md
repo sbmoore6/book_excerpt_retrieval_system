@@ -1,4 +1,4 @@
-# Readiscoverer's Book Exceprt Retrieval App
+# Readiscoverer's Book Excerpt Retrieval App
 Application to assist book editors with locating key information across a series for continuity
 
 Readiscover is a semantic search system for **extracting verifiable passages from book-length texts**.  
