@@ -81,7 +81,7 @@ In editorial and legal contexts, hallucinated passages break trust. Readiscover 
 ✔ Auditable failure modes  
 ✔ Safer for editorial, legal, and research workflows  
 
-This system favors **trust and interpretability** over fluency — a critical tradeoff in high-risk text applications.
+This system favors **trust and interpretability** over fluency
 
 ---
 
