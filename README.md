@@ -121,9 +121,3 @@ University of Michigan, School of Information
 Public-domain text sources (Project Gutenberg).  
 Code released for research and demonstration purposes.
 
----
-
-## License
-
-Public-domain text sources (Project Gutenberg).  
-Code released for research and demonstration purposes.
