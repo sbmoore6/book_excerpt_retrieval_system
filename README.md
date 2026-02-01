@@ -1,5 +1,9 @@
-# Readiscoverer's Book Excerpt Retrieval App
-Application to assist book editors with locating key information across a series for continuity
+# Readiscover  
+**Trustworthy Passage Retrieval for Long-Form Fiction**
+
+<p align="center">
+  <img src="media/app_demo_v1.gif" alt="Readiscover app demo" width="800">
+</p>
 
 Readiscover is a semantic search system for **extracting verifiable passages from book-length texts**.  
 It was built to support editorial workflows where **hallucinations are unacceptable** and answers must be **traceable to the source**.
@@ -109,6 +113,13 @@ This system favors **trust and interpretability** over fluency — a critical tr
 
 Capstone Project — Master of Applied Data Science  
 University of Michigan, School of Information
+
+---
+
+## License
+
+Public-domain text sources (Project Gutenberg).  
+Code released for research and demonstration purposes.
 
 ---
 
