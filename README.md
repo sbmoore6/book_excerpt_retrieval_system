@@ -36,7 +36,7 @@ In editorial and legal contexts, hallucinated passages break trust. Readiscover 
 - Used as a strong real-world baseline
 
 <p align="center">
-  <img src="SemSearchDiagram.png" alt="Semantic Search Diagram" width="800">
+  <img src="figures/SemSearchDiagram.png" alt="Semantic Search Diagram" width="800">
 </p>
 
 ---
