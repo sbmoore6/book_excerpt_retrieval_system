@@ -22,14 +22,14 @@ In editorial and legal contexts, hallucinated passages break trust. Readiscover 
 
 ## What We Built
 
-### 🔍 Semantic Retrieval Pipeline
+### Semantic Retrieval Pipeline
 - Parsed and cleaned raw HTML books
-- Paragraph-aware chunking with configurable overlap
+- Paragraph aware chunking with configurable overlap
 - Dense embeddings optimized for document retrieval
 - Cosine-similarity search returning top-K passages
 - Deterministic, reproducible results (no hallucinations)
 
-### 🤖 LLM Baseline (for Comparison)
+### LLM Baseline (for Comparison)
 - Custom GPT prompted to extract verbatim passages
 - Full-text access provided
 - Hallucinations detected and logged
@@ -122,6 +122,6 @@ University of Michigan, School of Information
 
 ## License
 
-Public-domain text sources (Project Gutenberg).  
-Code released for research and demonstration purposes.
+The original work was completed as a [collaborative academic project](https://github.com/zymoncone/readiscoverers-backend).  
+This repository highlights **semantic search systems, LLM query reformulation, and paragraph aware chunking** for portfolio purposes.
 
