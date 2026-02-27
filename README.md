@@ -20,7 +20,7 @@ In editorial and legal contexts, hallucinated passages break trust. Readiscover 
 
 ---
 
-## What I Built
+## What We Built
 
 ### 🔍 Semantic Retrieval Pipeline
 - Parsed and cleaned raw HTML books
