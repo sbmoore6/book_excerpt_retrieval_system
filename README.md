@@ -35,6 +35,10 @@ In editorial and legal contexts, hallucinated passages break trust. Readiscover 
 - Hallucinations detected and logged
 - Used as a strong real-world baseline
 
+<p align="center">
+  <img src="SemSearchDiagram.png" alt="Semantic Search Diagram" width="800">
+</p>
+
 ---
 
 ## Tech Stack
